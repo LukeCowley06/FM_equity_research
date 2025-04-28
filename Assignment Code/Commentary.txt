@@ -4,6 +4,9 @@ Ticker: ASX: VEA
 Sector: Energy
 Date: 30th April 2025
 
+Executive Summary
+Viva Energy Group (VEA) is a leading energy company that operates across Australia, Singapore, and Papua New Guinea. Despite facing significant headwinds over the past year, including weak oil-refining margins, high inflationary pressures, and impacts from illicit tobacco trade, VEA has maintained a major market share and strong brand partnerships, notably Shell. While a slow down in domestic inflation may provide some relief to margins and consumer demand, the outlook for refining margins in the global market remains challenging. Our discounted cash flow (DCF) valuation indicates the stock is trading close to fair value, resulting in our recommendation of a HOLD on Viva Energy.
+
 Company Overview
 Viva Energy Group operates in three key segments. The Convenience & Mobility division includes over 1,300 service stations and more than 700 convenience stores that operate under the Shell and Coles Express brands. The Commercial & Industrial segment supplies fuels, lubricants, polypropylene, and specialty hydrocarbon products. The Energy & Infrastructure operations are centred around the Geelong Refinery in Victoria, which refines crude oil into petrol, diesel, jet fuel, bitumen, LPG, and specialty chemical products. Industry growth projections across these segments are mixed, with petroleum refining expected have a declining CAGR of 5.1% over the next five years, while bulk fuel storage has a modest growth forecast of 1.6%. Convenience store growth is forecast to be 0.2% annually, typical for the low and steady growth in the energy and utilities industry.
 
