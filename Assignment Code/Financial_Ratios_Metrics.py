@@ -58,10 +58,6 @@ def calculate_leverage_ratio(total_assets, total_equity):
 def calculate_asset_turnover_ratio(revenue, total_assets):
     return revenue / total_assets
 
-# Function to calculate the fixed asset turnover ratio of a stock
-def calculate_fixed_asset_turnover_ratio(revenue, net_fixed_assets):
-    return revenue / net_fixed_assets
-
 # Function to calculate the inventory turnover ratio of a stock
 def calculate_inventory_turnover_ratio(cost_of_goods_sold, average_inventory):
     return cost_of_goods_sold / average_inventory
